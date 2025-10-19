@@ -107,3 +107,5 @@ The second example reduces the number of pluralized words that translators have 
 During a string freeze (often before a major release), no translation strings are to be added, modified or removed.
 
 This can be checked by executing `make translate` in the `src` directory, then verifying that `verge_en.ts` remains unchanged.
+
+<!-- Auto-update: 2025-10-19T11:36:03.502618 -->
